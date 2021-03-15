@@ -1,0 +1,46 @@
+[
+  {
+    "id": "5fd7f8b80f500c8e56cf00b8",
+    "firstName": "Patti",
+    "lastName": "Jannetta",
+    "occupation": "Musician",
+    "yearInducted": "2020",
+    "inducteeContentList": [
+      {
+        "textContent": [
+          {
+            "id": "60370cd2cf34005dc1d20cc0",
+            "itemLabel": 0,
+            "contentDescription": "Patti Jannetta is a Canadian pop and rock singer, who was most prominent in the 1980s and early 1990s. She released her first album, Patti Jannetta, in 1981. The album's first single \"You've Got No One\" charted on the Adult Contemporary charts in RPM, peaking at #7 in the week of April 9, 1983,[4] the second single \"I'm Ready for Your Love\" peaked at #15 in the week of August 6, and \"Don't Change\" peaked at #13 in the week of April 7, 1984.."
+          }
+        ]
+      },
+      {
+        "videoContent": [
+          {
+            "id": "60370e16cf34005dc1d20cc2",
+            "itemLabel": 3,
+            "pathName": "https://www.youtube.com/watch?v=e3ui5N0s8Og",
+            "contentDescription": "Somewhere Over The Rainbow by Patti Jannetta with John Ebata on Keyboards, Danny Turco on Guitar, Aaron Ferrera on Drums and Dave Baker on Bass. Video by Sanborg Productions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5fd7fab60f500c8e56cf00b9",
+    "firstName": "Phil X",
+    "lastName": "",
+    "occupation": "Musician",
+    "yearInducted": "2019",
+    "inducteeContentList": []
+  },
+  {
+    "id": "5fd7fb060f500c8e56cf00ba",
+    "firstName": "Prakash",
+    "lastName": "Josh",
+    "occupation": "Musician",
+    "yearInducted": "2019",
+    "inducteeContentList": []
+  }
+]
